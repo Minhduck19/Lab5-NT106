@@ -1,6 +1,21 @@
-# Prerequisites
-*.d
 
+<<<<<<< HEAD
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww]in32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+=======
 .vs/
 
 # Object files
@@ -8,50 +23,62 @@
 *.ko
 *.obj
 *.elf
+>>>>>>> main
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Visual Studio 2015/2017/2019/2022 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files
+# wwwroot/
 
-# Precompiled Headers
-*.gch
-*.pch
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# User-specific build files
+*.userprefs
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Build Results of an ATL Project
+[Bb]uildLog.htm
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Build results of Web Project
+App_Data/
+App_Browser/
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# debug information files
-*.dwo
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+
+# Microsoft SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Other generated files
+*.lock
+*.log

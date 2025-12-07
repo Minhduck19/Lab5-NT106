@@ -22,5 +22,11 @@ namespace Menu
             Bai2.Form1 tmp = new Bai2.Form1();
             tmp.Show();
         }
+
+        private void guna2Button4_Click(object sender, EventArgs e)
+        {
+            Bai5.LoginForm tmp = new Bai5.LoginForm();
+            tmp.Show();
+        }
     }
 }

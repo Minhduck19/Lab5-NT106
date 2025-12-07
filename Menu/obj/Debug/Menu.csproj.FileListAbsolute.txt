@@ -53,3 +53,5 @@ D:\Slide dai hoc\HK3-Nam Hai\NT106.Q13-LapTrinhMangCanBan\Lab5-NT106\Menu\bin\De
 D:\Slide dai hoc\HK3-Nam Hai\NT106.Q13-LapTrinhMangCanBan\Lab5-NT106\Menu\bin\Debug\System.ValueTuple.xml
 D:\Slide dai hoc\HK3-Nam Hai\NT106.Q13-LapTrinhMangCanBan\Lab5-NT106\Menu\bin\Debug\System.Numerics.Vectors.xml
 D:\Slide dai hoc\HK3-Nam Hai\NT106.Q13-LapTrinhMangCanBan\Lab5-NT106\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+D:\Slide dai hoc\HK3-Nam Hai\NT106.Q13-LapTrinhMangCanBan\Lab5-NT106\Menu\bin\Debug\Newtonsoft.Json.dll
+D:\Slide dai hoc\HK3-Nam Hai\NT106.Q13-LapTrinhMangCanBan\Lab5-NT106\Menu\bin\Debug\Newtonsoft.Json.xml

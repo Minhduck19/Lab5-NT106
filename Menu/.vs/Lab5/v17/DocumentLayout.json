@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Lab05.csproj|D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Lab05.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Lab05.csproj|D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Lab05.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\menu\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -30,37 +14,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs [Design]",
-              "RelativeToolTip": "Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T06:04:26.869Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T06:04:26.903Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -78,44 +33,25 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs [Design]",
-              "RelativeToolTip": "Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T05:56:29.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T05:44:19.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Menu.Designer.cs",
               "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "Menu.Designer.cs",
               "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.Designer.cs",
               "RelativeToolTip": "Menu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T05:26:11.044Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

@@ -3,6 +3,27 @@
   "WorkspaceRootPath": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D49264B-6D84-4E71-A3AD-9409E6B81C30}|..\\Bai2\\Bai2.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D49264B-6D84-4E71-A3AD-9409E6B81C30}|..\\Bai2\\Bai2.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\bai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D49264B-6D84-4E71-A3AD-9409E6B81C30}|..\\Bai2\\Bai2.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\bai2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|d:\\slide dai hoc\\hk3-nam hai\\nt106.q13-laptrinhmangcanban\\lab5-nt106\\menu\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +35,22 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Bai2\\Form1.cs",
+              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Bai2\\Form1.cs*",
+              "RelativeToolTip": "..\\Bai2\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:21:05.423Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -33,25 +68,88 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.Designer.cs",
-              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.Designer.cs",
-              "RelativeDocumentMoniker": "Menu.Designer.cs",
-              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.Designer.cs",
-              "RelativeToolTip": "Menu.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T05:26:11.044Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:19:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:18:24.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Bai2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Bai2\\Form1.Designer.cs",
+              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Bai2\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Bai2\\Form1.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwLgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:15:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Bai2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Bai2\\Form1.cs",
+              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Bai2\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\Bai2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:15:09.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:12:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Menu.Designer.cs",
+              "ToolTip": "D:\\Slide dai hoc\\HK3-Nam Hai\\NT106.Q13-LapTrinhMangCanBan\\Lab5-NT106\\Menu\\Menu.Designer.cs",
+              "RelativeToolTip": "Menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T05:26:11.044Z",
+              "EditorCaption": ""
             }
           ]
         }

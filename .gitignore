@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -14,6 +15,15 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+=======
+.vs/
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+>>>>>>> main
 
 # Visual Studio 2015/2017/2019/2022 cache/options directory
 .vs/

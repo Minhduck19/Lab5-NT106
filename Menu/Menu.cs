@@ -17,6 +17,23 @@ namespace Menu
             InitializeComponent();
         }
 
+        private void guna2HtmlLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            Bai1.Form1 bai1Form = new Bai1.Form1();
+            bai1Form.Show();
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+            Bai4.Form1 bai4Form = new Bai4.Form1();
+            bai4Form.Show();
+        }
+
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             Bai2.Form1 tmp = new Bai2.Form1();

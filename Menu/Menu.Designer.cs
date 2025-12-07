@@ -48,26 +48,29 @@ namespace Menu
             // 
             // headerPanel
             // 
+            this.headerPanel.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.headerPanel.Controls.Add(this.guna2HtmlLabel1);
-            this.headerPanel.Dock = System.Windows.Forms.DockStyle.Top;
             this.headerPanel.FillColor = System.Drawing.Color.RoyalBlue;
             this.headerPanel.FillColor2 = System.Drawing.Color.DeepSkyBlue;
             this.headerPanel.Location = new System.Drawing.Point(0, 0);
             this.headerPanel.Name = "headerPanel";
-            this.headerPanel.Size = new System.Drawing.Size(537, 95);
+            this.headerPanel.Size = new System.Drawing.Size(1617, 95);
             this.headerPanel.TabIndex = 0;
             // 
             // guna2HtmlLabel1
             // 
+            this.guna2HtmlLabel1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.guna2HtmlLabel1.AutoSize = false;
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(29, 29);
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(313, 12);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             this.guna2HtmlLabel1.Size = new System.Drawing.Size(900, 63);
             this.guna2HtmlLabel1.TabIndex = 0;
             this.guna2HtmlLabel1.Text = "Sending & Receiving Email in C#";
+            this.guna2HtmlLabel1.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.guna2HtmlLabel1.Click += new System.EventHandler(this.guna2HtmlLabel1_Click);
             // 
             // btnLogin
             // 
@@ -80,7 +83,7 @@ namespace Menu
             this.btnLogin.HoverState.CustomBorderColor = System.Drawing.Color.White;
             this.btnLogin.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(255)))));
             this.btnLogin.HoverState.ForeColor = System.Drawing.Color.White;
-            this.btnLogin.Location = new System.Drawing.Point(51, 155);
+            this.btnLogin.Location = new System.Drawing.Point(561, 200);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.ShadowDecoration.BorderRadius = 15;
             this.btnLogin.ShadowDecoration.Depth = 8;
@@ -88,6 +91,7 @@ namespace Menu
             this.btnLogin.Size = new System.Drawing.Size(166, 55);
             this.btnLogin.TabIndex = 7;
             this.btnLogin.Text = "Bài 1";
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // guna2Button1
             // 
@@ -100,7 +104,7 @@ namespace Menu
             this.guna2Button1.HoverState.CustomBorderColor = System.Drawing.Color.White;
             this.guna2Button1.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(255)))));
             this.guna2Button1.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(310, 155);
+            this.guna2Button1.Location = new System.Drawing.Point(820, 200);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.ShadowDecoration.BorderRadius = 15;
             this.guna2Button1.ShadowDecoration.Depth = 8;
@@ -120,7 +124,7 @@ namespace Menu
             this.guna2Button2.HoverState.CustomBorderColor = System.Drawing.Color.White;
             this.guna2Button2.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(255)))));
             this.guna2Button2.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button2.Location = new System.Drawing.Point(51, 275);
+            this.guna2Button2.Location = new System.Drawing.Point(561, 320);
             this.guna2Button2.Name = "guna2Button2";
             this.guna2Button2.ShadowDecoration.BorderRadius = 15;
             this.guna2Button2.ShadowDecoration.Depth = 8;
@@ -140,7 +144,7 @@ namespace Menu
             this.guna2Button3.HoverState.CustomBorderColor = System.Drawing.Color.White;
             this.guna2Button3.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(255)))));
             this.guna2Button3.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button3.Location = new System.Drawing.Point(310, 275);
+            this.guna2Button3.Location = new System.Drawing.Point(820, 320);
             this.guna2Button3.Name = "guna2Button3";
             this.guna2Button3.ShadowDecoration.BorderRadius = 15;
             this.guna2Button3.ShadowDecoration.Depth = 8;
@@ -148,6 +152,7 @@ namespace Menu
             this.guna2Button3.Size = new System.Drawing.Size(166, 55);
             this.guna2Button3.TabIndex = 10;
             this.guna2Button3.Text = "Bài 4";
+            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
             // 
             // guna2Button4
             // 
@@ -160,7 +165,7 @@ namespace Menu
             this.guna2Button4.HoverState.CustomBorderColor = System.Drawing.Color.White;
             this.guna2Button4.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(255)))));
             this.guna2Button4.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button4.Location = new System.Drawing.Point(51, 393);
+            this.guna2Button4.Location = new System.Drawing.Point(561, 438);
             this.guna2Button4.Name = "guna2Button4";
             this.guna2Button4.ShadowDecoration.BorderRadius = 15;
             this.guna2Button4.ShadowDecoration.Depth = 8;
@@ -180,7 +185,7 @@ namespace Menu
             this.guna2Button5.HoverState.CustomBorderColor = System.Drawing.Color.White;
             this.guna2Button5.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(120)))), ((int)(((byte)(255)))));
             this.guna2Button5.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button5.Location = new System.Drawing.Point(310, 393);
+            this.guna2Button5.Location = new System.Drawing.Point(820, 438);
             this.guna2Button5.Name = "guna2Button5";
             this.guna2Button5.ShadowDecoration.BorderRadius = 15;
             this.guna2Button5.ShadowDecoration.Depth = 8;
@@ -194,7 +199,7 @@ namespace Menu
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(537, 533);
+            this.ClientSize = new System.Drawing.Size(1617, 708);
             this.Controls.Add(this.guna2Button5);
             this.Controls.Add(this.guna2Button4);
             this.Controls.Add(this.guna2Button3);

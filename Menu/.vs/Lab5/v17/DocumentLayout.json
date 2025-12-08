@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Menu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|c:\\users\\acer\\documents\\th ltmcb\\lab5\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|c:\\users\\acer\\documents\\th ltmcb\\lab5\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BFC2B3F-1F69-4A42-893C-56F64DF155BB}|Menu.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35A99351-4C04-40FB-B750-EB19D6354B7C}|..\\Bai6\\Bai6.csproj|c:\\users\\acer\\documents\\th ltmcb\\lab5\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -101,6 +109,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Menu\\Menu.cs*",
+              "RelativeToolTip": "Menu.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:14:40.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Menu\\Menu.cs [Design]*",
+              "RelativeToolTip": "Menu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T11:14:26.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\Program.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\Program.cs",
@@ -113,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SendMailForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\SendMailForm.Designer.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\SendMailForm.Designer.cs",
@@ -126,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\MainForm.Designer.cs",
@@ -139,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SendMailForm.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\SendMailForm.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\SendMailForm.cs",
@@ -152,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SendMailForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\SendMailForm.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\SendMailForm.cs",
@@ -164,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\MainForm.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\MainForm.cs",
@@ -177,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\MainForm.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\MainForm.cs",
@@ -189,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Services.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai6\\Services.cs",
               "RelativeDocumentMoniker": "..\\Bai6\\Services.cs",
@@ -202,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai3\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Bai3\\Form1.cs",
@@ -215,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai3\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "..\\Bai3\\Form1.Designer.cs",
@@ -228,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai2\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Bai2\\Form1.cs",
@@ -241,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai5\\MainForm.cs",
               "RelativeDocumentMoniker": "..\\Bai5\\MainForm.cs",
@@ -253,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai5\\LoginForm.cs",
               "RelativeDocumentMoniker": "..\\Bai5\\LoginForm.cs",
@@ -265,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai4\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Bai4\\Form1.cs",
@@ -277,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai3\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Bai3\\Form1.cs",
@@ -289,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai1\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Bai1\\Form1.cs",
@@ -301,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai2\\Form1.cs",
               "RelativeDocumentMoniker": "..\\Bai2\\Form1.cs",
@@ -313,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Documents\\TH LTMCB\\lab5\\Bai2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "..\\Bai2\\Form1.Designer.cs",

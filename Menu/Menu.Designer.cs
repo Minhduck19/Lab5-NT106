@@ -133,6 +133,7 @@ namespace Menu
             this.guna2Button2.Size = new System.Drawing.Size(166, 55);
             this.guna2Button2.TabIndex = 9;
             this.guna2Button2.Text = "Bài 3";
+            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
             // guna2Button3
             // 
@@ -195,6 +196,7 @@ namespace Menu
             this.guna2Button5.Size = new System.Drawing.Size(166, 55);
             this.guna2Button5.TabIndex = 12;
             this.guna2Button5.Text = "Bài 6";
+            this.guna2Button5.Click += new System.EventHandler(this.guna2Button5_Click);
             // 
             // Form1
             // 

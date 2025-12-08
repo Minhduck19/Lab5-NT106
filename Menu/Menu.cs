@@ -45,5 +45,17 @@ namespace Menu
             Bai5.LoginForm tmp = new Bai5.LoginForm();
             tmp.Show();
         }
+
+        private void guna2Button5_Click(object sender, EventArgs e)
+        {
+            Bai6.MainForm tmp = new Bai6.MainForm();
+            tmp.Show();
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            Bai3.Form1 tmp = new Bai3.Form1();
+            tmp.Show();
+        }
     }
 }

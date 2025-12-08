@@ -1,4 +1,5 @@
 ﻿using Guna.UI2.WinForms;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace Bai6
@@ -24,88 +25,102 @@ namespace Bai6
         }
 
         #region Windows Form Designer generated code
-        private Guna2GradientPanel header;
+        private Guna2HtmlLabel lblTo;
         private Guna2TextBox txtTo;
+        private Guna2HtmlLabel lblSubject;
         private Guna2TextBox txtSubject;
+        private Guna2HtmlLabel lblBody;
         private Guna2TextBox txtBody;
         private Guna2Button btnAttach;
-        private Guna2Button btnSend;
         private Guna2HtmlLabel lblAttachment;
-
+        private Guna2Button btnSend;
 
         private void InitializeComponent()
         {
-            this.header = new Guna2GradientPanel();
-            this.txtTo = new Guna2TextBox();
-            this.txtSubject = new Guna2TextBox();
-            this.txtBody = new Guna2TextBox();
-            this.btnAttach = new Guna2Button();
-            this.btnSend = new Guna2Button();
-            this.lblAttachment = new Guna2HtmlLabel();
+            // Form settings
+            this.Text = "Send Email";
+            this.Size = new Size(650, 600);
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.FormBorderStyle = FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
 
-
-            this.SuspendLayout();
-
-
-            // Header
-            header.Dock = DockStyle.Top;
-            header.Height = 55;
-            header.FillColor = System.Drawing.Color.FromArgb(58, 141, 255);
-            header.FillColor2 = System.Drawing.Color.FromArgb(108, 200, 255);
-
+            // lblTo
+            lblTo = new Guna2HtmlLabel();
+            lblTo.Text = "To:";
+            lblTo.Font = new Font("Segoe UI", 10, FontStyle.Bold);
+            lblTo.Location = new Point(30, 30);
+            lblTo.AutoSize = true;
 
             // txtTo
-            txtTo.PlaceholderText = "To";
-            txtTo.BorderRadius = 10;
-            txtTo.Location = new System.Drawing.Point(20, 70);
-            txtTo.Size = new System.Drawing.Size(450, 40);
+            txtTo = new Guna2TextBox();
+            txtTo.PlaceholderText = "Receiver Email";
+            txtTo.BorderRadius = 8;
+            txtTo.Location = new Point(120, 25);
+            txtTo.Size = new Size(480, 40);
 
+            // lblSubject
+            lblSubject = new Guna2HtmlLabel();
+            lblSubject.Text = "Subject:";
+            lblSubject.Font = new Font("Segoe UI", 10, FontStyle.Bold);
+            lblSubject.Location = new Point(30, 85);
+            lblSubject.AutoSize = true;
 
             // txtSubject
-            txtSubject.PlaceholderText = "Subject";
-            txtSubject.BorderRadius = 10;
-            txtSubject.Location = new System.Drawing.Point(20, 120);
-            txtSubject.Size = new System.Drawing.Size(450, 40);
+            txtSubject = new Guna2TextBox();
+            txtSubject.PlaceholderText = "Email Subject";
+            txtSubject.BorderRadius = 8;
+            txtSubject.Location = new Point(120, 80);
+            txtSubject.Size = new Size(480, 40);
 
+            // lblBody
+            lblBody = new Guna2HtmlLabel();
+            lblBody.Text = "Message:";
+            lblBody.Font = new Font("Segoe UI", 10, FontStyle.Bold);
+            lblBody.Location = new Point(30, 140);
+            lblBody.AutoSize = true;
 
             // txtBody
+            txtBody = new Guna2TextBox();
             txtBody.Multiline = true;
-            txtBody.BorderRadius = 12;
-            txtBody.Location = new System.Drawing.Point(20, 175);
-            txtBody.Size = new System.Drawing.Size(450, 330);
-
+            txtBody.BorderRadius = 10;
+            txtBody.Location = new Point(120, 135);
+            txtBody.Size = new Size(480, 300);
 
             // btnAttach
-            btnAttach.Text = "Attach";
+            btnAttach = new Guna2Button();
+            btnAttach.Text = "Attach File";
             btnAttach.BorderRadius = 8;
-            btnAttach.Location = new System.Drawing.Point(20, 520);
-            btnAttach.Size = new System.Drawing.Size(100, 40);
+            btnAttach.Location = new Point(120, 450);
+            btnAttach.Size = new Size(130, 40);
+            btnAttach.FillColor = Color.FromArgb(50, 130, 255);
             btnAttach.Click += new System.EventHandler(this.btnAttach_Click);
 
-
             // lblAttachment
-            lblAttachment.Text = "No file chosen";
-            lblAttachment.Location = new System.Drawing.Point(130, 530);
+            lblAttachment = new Guna2HtmlLabel();
+            lblAttachment.Text = "No file selected";
+            lblAttachment.Location = new Point(265, 460);
+            lblAttachment.ForeColor = Color.Gray;
             lblAttachment.AutoSize = true;
-            lblAttachment.ForeColor = System.Drawing.Color.FromArgb(30, 60, 120);
-
 
             // btnSend
+            btnSend = new Guna2Button();
             btnSend.Text = "Send";
-            btnSend.BorderRadius = 8;
-            btnSend.FillColor = System.Drawing.Color.FromArgb(0, 90, 200);
-            btnSend.Location = new System.Drawing.Point(370, 520);
-            btnSend.Size = new System.Drawing.Size(100, 40);
+            btnSend.BorderRadius = 10;
+            btnSend.Size = new Size(180, 45);
+            btnSend.Location = new Point(420, 500);
+            btnSend.FillColor = Color.FromArgb(30, 90, 200);
             btnSend.Click += new System.EventHandler(this.btnSend_Click);
 
-
-            // Form
-            this.ClientSize = new System.Drawing.Size(500, 600);
-            this.Controls.Add(header);
+            // Add controls to form
+            this.Controls.Add(lblTo);
             this.Controls.Add(txtTo);
+            this.Controls.Add(lblSubject);
             this.Controls.Add(txtSubject);
+            this.Controls.Add(lblBody);
             this.Controls.Add(txtBody);
-            this.PerformLayout();
+            this.Controls.Add(btnAttach);
+            this.Controls.Add(lblAttachment);
+            this.Controls.Add(btnSend);
         }
         #endregion
     }
